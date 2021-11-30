@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year Master student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/).
 
-I am interested in 3D reconsturction and deep learning.
+I am interested in 3D reconstruction and deep learning.
 
 Education, Experience
 ======
@@ -27,10 +27,13 @@ Yiting Ma, Xuejin Chen*, Kai Cheng, Yang Li, Bin Sun
 Social Services
 ======
 **Reviewer**
+CVPR2022
 
 Awards
 ======
 **Master**
+Master's First Class Scholarship 2020, 2021
+
 
 **Bachelor**
 National Scholarship in 2017
