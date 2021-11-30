@@ -15,6 +15,7 @@ I am interested in 3D reconsturction and deep learning.
 Education, Experience
 ======
 
+
 Publication
 ======
 [Depth Estimation for Colonoscopy Images with Self-supervised Learning from Videos](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_12), MICCAI 2021
@@ -32,4 +33,5 @@ Awards
 **Master**
 
 **Bachelor**
+National Scholarship in 2017
 
