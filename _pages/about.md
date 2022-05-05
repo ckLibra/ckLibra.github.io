@@ -18,12 +18,12 @@ Education, Experience
 
 Publication
 ======
-[Boosting Monocular Depth Estimation with Sparse Guided Points](https://arxiv.org/abs/2202.01470v1), Guangkai Xu, Wei Yin, Hao Chen, **Kai Cheng**, Feng Zhao, Chunhua Shen. arXiv preprint arXiv:2202.01470, 2022.
+[Towards 3D Scene Reconstruction from Locally Scale-Aligned Monocular Video Depth](https://arxiv.org/abs/2202.01470v2), Guangkai Xu, Wei Yin, Hao Chen, **Kai Cheng**, Feng Zhao, Chunhua Shen. arXiv preprint arXiv:2202.01470, 2022.
 
-[Depth Estimation for Colonoscopy Images with Self-supervised Learning from Videos](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_12), MICCAI 2021
+[Depth Estimation for Colonoscopy Images with Self-supervised Learning from Videos](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_12), MICCAI 2021 (early accept, top 13%),
 **Kai Cheng**, Yiting Ma, Bin Sun, Yang Li, Xuejin Chen*
 
-[LDPolypVideo Benchmark: A Large-Scale Colonoscopy Video Dataset of Diverse Polyps](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_37), MICCAI 2021
+[LDPolypVideo Benchmark: A Large-Scale Colonoscopy Video Dataset of Diverse Polyps](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_37), MICCAI 2021, 
 Yiting Ma, Xuejin Chen*, **Kai Cheng**, Yang Li, Bin Sun
 
 Social Services
