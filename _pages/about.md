@@ -18,6 +18,8 @@ Education, Experience
 
 Publication
 ======
+[Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation](https://arxiv.org/abs/2205.02481), Kai Cheng, Hao Chen, Wei Yin, Guangkai Xu, Xuejin Chen. arXiv preprint arXiv:2205.02481, 2022
+
 [Towards 3D Scene Reconstruction from Locally Scale-Aligned Monocular Video Depth](https://arxiv.org/abs/2202.01470v2), Guangkai Xu, Wei Yin, Hao Chen, **Kai Cheng**, Feng Zhao, Chunhua Shen. arXiv preprint arXiv:2202.01470, 2022.
 
 [Depth Estimation for Colonoscopy Images with Self-supervised Learning from Videos](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_12), MICCAI 2021 (early accept, top 13%),
