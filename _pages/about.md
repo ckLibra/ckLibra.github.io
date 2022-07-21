@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Master student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/).
+I am a first year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/).
 
 I am interested in image based 3D reconstruction, depth estimation and SLAM.
 
