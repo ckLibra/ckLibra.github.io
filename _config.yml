@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Cheng's Homepage"
+title                    : "USTC Kai Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Cheng"
 description              : &description ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Cheng"
   avatar           : "profile.png"
-  bio              : "Master@USTC"
+  bio              : "Ph.D. Student@USTC"
   location         : "HeFei, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LeDSFrAAAAAJ&hl=zh-CN"
