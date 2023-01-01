@@ -12,9 +12,11 @@ I am a first year Ph.D student from the school of data science, University of Sc
 
 I am interested in image based 3D reconstruction, depth estimation and SLAM.
 
-Education, Experience
+Experience
 ======
+2019.10 - 2020.1, Megvii Research in NanJing, Research Intern
 
+2021.3 - 2022.1, Huawei Noah's Ark Lab, Research Intern
 
 Publication
 ======
