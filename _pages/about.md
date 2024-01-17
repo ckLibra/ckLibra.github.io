@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/).
 
-I am interested in Neural Rendering and Image-based 3D Reconstruction.
+I am interested in Neural Rendering, Depth Estimation and Image-based 3D Reconstruction.
 
 Experience
 ======
@@ -22,10 +22,13 @@ Experience
 
 Publication
 ======
-[FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_FrozenRecon_Pose-free_3D_ICCV_2023_supplemental.pdf), Guangkai Xu, Wei Yin, Hao Chen, Chunhua Shen, Kai Cheng, Feng Zhao, Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 9310-9320.
+Our [UC-NeRF](https://arxiv.org/abs/2311.16945) has been accepted by ICLR2024!
+
+[FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_FrozenRecon_Pose-free_3D_ICCV_2023_supplemental.pdf), Guangkai Xu, Wei Yin, Hao Chen, Chunhua Shen, **Kai Cheng**, Feng Zhao, Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 9310-9320.
 
 [The Second Monocular depth estimation Challenge](https://arxiv.org/abs/2304.07051)
-Our team wins the CVPR2023 Monocular depth estimation challenge! I am also response for the SLAM experiment in [Metric3D, ICCV2023](https://arxiv.org/abs/2307.10984).
+Our team wins the CVPR2023 Monocular depth estimation challenge! (Serve as the first student team member) 
+I am also response for the SLAM experiment in [Metric3D, ICCV2023](https://arxiv.org/abs/2307.10984).
 
 [Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation](https://arxiv.org/abs/2205.02481), **Kai Cheng**, Hao Chen, Wei Yin, Guangkai Xu, Xuejin Chen. arXiv preprint arXiv:2205.02481, 2022
 
