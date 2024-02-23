@@ -22,12 +22,12 @@ Experience
 
 Publication
 ======
-[UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving](https://arxiv.org/abs/2311.16945), **Kai Cheng**, Xiaoxiao Long, Yin Wei, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen, The Twelfth International Conference on Learning Representations. 2023.
+[UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving](https://arxiv.org/abs/2311.16945), **Kai Cheng**, Xiaoxiao Long, Yin Wei, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen, The Twelfth International Conference on Learning Representations (ICLR). 2023.
 
-[FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_FrozenRecon_Pose-free_3D_ICCV_2023_supplemental.pdf), Guangkai Xu, Wei Yin, Hao Chen, Chunhua Shen, **Kai Cheng**, Feng Zhao, Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023: 9310-9320.
+[FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_FrozenRecon_Pose-free_3D_ICCV_2023_supplemental.pdf), Guangkai Xu, Wei Yin, Hao Chen, Chunhua Shen, **Kai Cheng**, Feng Zhao, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2023: 9310-9320.
 
 [The Second Monocular depth estimation Challenge](https://arxiv.org/abs/2304.07051)
-Our team wins the CVPR2023 Monocular depth estimation challenge! (Serve as the first student team member) 
+Our team **wins the CVPR2023 Monocular depth estimation challenge**! (Serve as the first student team member) 
 I am also response for the SLAM experiment in [Metric3D, ICCV2023](https://arxiv.org/abs/2307.10984).
 
 [Exploiting Correspondences with All-pairs Correlations for Multi-view Depth Estimation](https://arxiv.org/abs/2205.02481), **Kai Cheng**, Hao Chen, Wei Yin, Guangkai Xu, Xuejin Chen. arXiv preprint arXiv:2205.02481, 2022
@@ -39,11 +39,6 @@ I am also response for the SLAM experiment in [Metric3D, ICCV2023](https://arxiv
 
 [LDPolypVideo Benchmark: A Large-Scale Colonoscopy Video Dataset of Diverse Polyps](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_37), MICCAI 2021, 
 Yiting Ma, Xuejin Chen*, **Kai Cheng**, Yang Li, Bin Sun
-
-Social Services
-======
-**Reviewer**
-CVPR2022
 
 Awards
 ======
