@@ -12,6 +12,8 @@ I am a second year Ph.D student from the school of data science, University of S
 
 I am interested in Neural Rendering, Depth Estimation and Image-based 3D Reconstruction.
 
+I am a active member of [AnySyn3D](https://anysyn3d.github.io/), a research interest group that conducts various topics about the 3D. We could host multiple remote/onsite internships, with topics i) Neural Rendering, ii) 3DV for Robotics, iii) Autonomous Driving. If you are interested in working with us, feel free to drop me an email.
+
 Experience
 ======
 2022.12 - 2023.11, DJI Technology, Research Intern
