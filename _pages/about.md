@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/).
+I am a second year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/) and [Wei Yin](https://yvanyin.net/).
 
 I am interested in Neural Rendering, Depth Estimation and Image-based 3D Reconstruction.
 
