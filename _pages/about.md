@@ -24,7 +24,9 @@ Experience
 
 Publication
 ======
-[UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving](https://arxiv.org/abs/2311.16945), **Kai Cheng**, Xiaoxiao Long, Yin Wei, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen, The Twelfth International Conference on Learning Representations (ICLR). 2024.
+[GaussianPro: 3D Gaussian Splatting with Progressive Propagation](https://kcheng1021.github.io/gaussianpro.github.io/), **Kai Cheng**, Xiaoxiao Long, Kaizhi Yang, Yao Yao, Wei Yin, Yuexin Ma, Wenping Wang, Xuejin Chen, the Forty-first International Conference on Machine Learning (ICML), 2024
+
+[UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving](https://kcheng1021.github.io/ucnerf.github.io/), **Kai Cheng**, Xiaoxiao Long, Yin Wei, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen, The Twelfth International Conference on Learning Representations (ICLR). 2024.
 
 [FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_FrozenRecon_Pose-free_3D_ICCV_2023_supplemental.pdf), Guangkai Xu, Wei Yin, Hao Chen, Chunhua Shen, **Kai Cheng**, Feng Zhao, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). 2023: 9310-9320.
 
