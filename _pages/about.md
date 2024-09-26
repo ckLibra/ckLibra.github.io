@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/) and [Wei Yin](https://yvanyin.net/).
+I am a third year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/) and [Wei Yin](https://yvanyin.net/).
 
 I am interested in Neural Rendering, Depth Estimation and Image-based 3D Reconstruction.
 
@@ -24,6 +24,8 @@ Experience
 
 Publication
 ======
+[DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos](https://linhanwang.github.io/dcgaussian/), Linhan Wang, **Kai Cheng**, Shuo Lei, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu, the Thirty-eighth Annual Conference on Neural Information Processing Systems (NIPS), 2024
+
 [GaussianPro: 3D Gaussian Splatting with Progressive Propagation](https://kcheng1021.github.io/gaussianpro.github.io/), **Kai Cheng**, Xiaoxiao Long, Kaizhi Yang, Yao Yao, Wei Yin, Yuexin Ma, Wenping Wang, Xuejin Chen, the Forty-first International Conference on Machine Learning (ICML), 2024
 
 [UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving](https://kcheng1021.github.io/ucnerf.github.io/), **Kai Cheng**, Xiaoxiao Long, Yin Wei, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen, The Twelfth International Conference on Learning Representations (ICLR). 2024.
