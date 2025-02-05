@@ -24,7 +24,7 @@ Experience
 
 Publication
 ======
-[GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction]([https://github.com/xhd0612/GaussianRoom]), Haodong Xiang, Xinghui Li, **Kai Cheng**, Xiansong Lai, Wanting Zhang, Zhichao Liao, Long Zeng, Xueping Liu, IEEE International Conferenceon Robotics and Automation (ICRA), 2025
+[GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction](https://github.com/xhd0612/GaussianRoom), Haodong Xiang, Xinghui Li, **Kai Cheng**, Xiansong Lai, Wanting Zhang, Zhichao Liao, Long Zeng, Xueping Liu, IEEE International Conferenceon Robotics and Automation (ICRA), 2025
 
 [DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos](https://linhanwang.github.io/dcgaussian/), Linhan Wang, **Kai Cheng**, Shuo Lei, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu, the Thirty-eighth Annual Conference on Neural Information Processing Systems (NIPS), 2024
 
