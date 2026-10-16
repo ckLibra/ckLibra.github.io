@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am interested in feedforward 3D Reconstruction & Generation, and robot learning.
 
-I am a third year Ph.D student from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/) and [Wei Yin](https://yvanyin.net/).
-
-I am interested in Neural Rendering, Depth Estimation and Image-based 3D Reconstruction.
+I received my Ph.D from the school of data science, University of Science and Technology of China. I am supervised by Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/) and working closely with [Xiaoxiao Long](https://www.xxlong.site/) and [Wei Yin](https://yvanyin.net/).
 
 I am an active member of [AnySyn3D](https://anysyn3d.github.io/), a research interest group that conducts various topics about the 3D. We could host multiple remote/onsite internships, with topics i) Neural Rendering, ii) 3DV for Robotics, iii) Autonomous Driving. If you are interested in working with us, feel free to drop me an email.
 
