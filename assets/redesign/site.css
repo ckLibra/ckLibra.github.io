@@ -36,3 +36,5 @@ h2{color:#e6f1f8;font-size:22px}.section-heading{border-bottom-color:var(--line)
 @media(prefers-reduced-motion:reduce){a,.paper{transition:none}}
 
 .english-name{font-size:1em;font-weight:450;color:var(--muted);letter-spacing:0;white-space:nowrap}
+/* MapMyVisitors map counter: show the provider's real visit count. */
+#visitor-widget{width:640px;max-width:100%;padding-bottom:0}#mapmyvisitors-widget{max-width:100%;border-radius:8px;overflow:hidden}

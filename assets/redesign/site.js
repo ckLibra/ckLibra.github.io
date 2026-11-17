@@ -59,19 +59,3 @@
   new IntersectionObserver(entries=>{visible=entries[0].isIntersecting;sync();}).observe(svg);
   build();sync();
 })();
-// Load the owner's visitor counter only on their production domain, so local
-// previews do not inflate real traffic. The fallback remains if loading fails.
-(() => {
-  const host=document.querySelector('#visitor-widget'),status=document.querySelector('#visitor-status');
-  if(!host)return;
-  if(!['cklibra.github.io','www.cklibra.github.io'].includes(location.hostname.toLowerCase())){
-    status.textContent='Live visitor globe appears on the published website.';return;
-  }
-  const script=document.createElement('script');script.id='mmvst_globe';script.async=true;
-  script.src='https://mapmyvisitors.com/globe.js?d=tE2xxuAZNYQuKM2_-CTjijgb9JCvd9thcHRuxdSj2vY';
-  script.onerror=()=>{status.textContent='The visitor globe is temporarily unavailable.';};
-  host.append(script);
-  const observer=new MutationObserver(()=>{
-    if(host.querySelector('.mmvst_globe,canvas,iframe,object,svg,img')){document.querySelector('.visitor-fallback').hidden=true;status.textContent='Visitor locations · MapMyVisitors';observer.disconnect();}
-  });observer.observe(host,{childList:true,subtree:true});
-})();
